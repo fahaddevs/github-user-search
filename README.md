@@ -1,3 +1,3 @@
 ## Demo
 
-Live link [Markdown Live Preview](https://fahaddevs.github.io/github-user-search/).
+Live link [GitHub User Search Project](https://fahaddevs.github.io/github-user-search/).
